@@ -19,7 +19,7 @@ collections:
 
   - name: "premium"
     label: "Premium Page"
-    folder: "content/premiun/"
+    folder: "content/premium/"
     create: true
     slug: "{{slug}}"
     fields:
