@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://fastidious-sunburst-63dccc.netlify.app/'
 languageCode = 'en-us'
 title = 'Jamsite'
 theme = "tale"
