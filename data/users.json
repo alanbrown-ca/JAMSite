@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Webs",
+		"surname": "Brown",
+		"skills": [ "Scratching", "Fussing", "Being cute" ]
+	},
+	{
+		"name": "Pesto",
+		"surname": "Yeller",
+		"skills": [ "Biting", "Chirping", "Also being cute" ]
+	},
+	{
+		"name": "Wicket",
+		"surname": "Wobbles",
+		"skills": [ "Bestest", "Girl", "Ever" ]
+	}
+]

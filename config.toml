@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Jamsite'
+theme = "tale"
+copyright = "Copyright 2022 People Named Alan"
+disableKinds = ["section"]
+
+[outputs]
+	home = ["HTML", "JSON"]
